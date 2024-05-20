@@ -66,5 +66,12 @@ The order book logic is implemented using MPC techniques to guarantee result cor
     >>> max(reveal(shares))
     8
     ```
+------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🔎 Learn More
+- [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org/)
+- [Finite Field](https://mathworld.wolfram.com/FiniteField.html)
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📰 Contact
+- **Website:** [Website](https://www.rexbit.exchange)
+- **Email:**  [Contact Us](mailto:contact@rexbit.exchange)
